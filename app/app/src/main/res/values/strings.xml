@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="about_alc">About ALC</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="my_profle">My Profle</string>
+    <string name="my_name">Teresia Karanja</string>
+    <string name="my_track">Track: Android</string>
+    <string name="my_email">Email: wangariteresiah6@gmail.com</string>
+    <string name="my_phone_number">Phone number: 0729548100</string>
+    <string name="my_slack_username">Slack Username: @Teresia</string>
+    <string name ="my_profile_pic">my profile pic</string>
+    <string name="check_your_internet_connection">Error loading: check_your_internet_connection</string>
+</resources>
